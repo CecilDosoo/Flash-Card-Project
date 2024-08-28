@@ -2,6 +2,8 @@
 
 This project is an online version of flashcards designed to help users learn French vocabulary. The flashcards display a French word on the front, and when flipped, reveal the English translation on the back. Users can interact with the flashcards through a graphical interface, marking words as known or unknown.
 
+https://github.com/user-attachments/assets/4239ba50-2292-4d4c-bba8-9c6e2cb6dcfb
+
 ## Features
 
 - **Interactive Learning**: Users can mark whether they know the word by pressing the "check" button or the "wrong" button. 
